@@ -47,5 +47,25 @@ La sección principal utiliza imágenes destacadas con bg-cover y bg-center para
 
 El código está estructurado en componentes reutilizables, lo que permite personalizar y escalar fácilmente la aplicación. Las animaciones y efectos de transición proporcionan una experiencia de usuario fluida. La configuración de Tailwind se realizó a través de un archivo tailwind.config.js, permitiendo personalizar colores y fuentes para alinearse con la identidad de la marca.
 ### `npm run build` fails to minify
+![Captura de pantalla 2025-01-13 131414](https://github.com/user-attachments/assets/97fb618e-f96d-41bf-a6f2-4d49638f1846)
+una tienda en línea de zapatos moderna, interactiva y fácil de usar, creada con React y diseñada para ser completamente responsiva. Esta página tiene un diseño optimizado para mostrar los productos de manera atractiva y funcional en cualquier dispositivo, ya sea en un teléfono móvil, tablet o computadora de escritorio. A continuación, te explico cómo sería una página web para una tienda de zapatos usando React y cómo se asegura de ser responsiva.
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+Cabecera (Header): El encabezado contiene el logo de la tienda, el nombre de la tienda, un menú de navegación con enlaces a categorías como "Hombres", "Mujeres", "Ofertas" y "Contacto", y un icono de carrito de compras. Al estar hecha con React, la navegación es rápida y sin recargas de página gracias a la actualización dinámica de contenido.
+
+Banner principal: Un banner grande con imágenes de alta calidad mostrando los zapatos más populares o las últimas colecciones, junto con un botón de llamada a la acción como "Ver más" o "Explorar la colección". Este banner podría cambiar automáticamente utilizando componentes de carousel en React.
+
+Sección de productos destacados: Aquí se muestran los zapatos más vendidos o en oferta. Cada producto tiene una imagen, nombre, precio y un botón de "Añadir al carrito". Los productos se renderizan dinámicamente utilizando componentes en React, lo que permite una actualización fácil y rápida del contenido.
+![Captura de pantalla 2025-01-13 131432](https://github.com/user-attachments/assets/2e390006-cf1f-47db-8c47-9e82621b97ad)
+2. Diseño responsivo
+Una de las grandes ventajas de usar React es su facilidad para crear páginas que se adaptan a cualquier tamaño de pantalla. La página de la tienda de zapatos está diseñada para ser responsiva, lo que significa que se verá perfectamente en dispositivos móviles, tabletas y escritorios.
+
+Media queries: Usando CSS o herramientas como Tailwind CSS, el diseño ajusta automáticamente el contenido dependiendo del tamaño de la pantalla. En dispositivos móviles, los productos pueden mostrarse en una vista de lista con imágenes más pequeñas, mientras que en escritorios se presentan en una rejilla de varias columnas.
+
+Interactividad móvil: Al estar hecha con React, la tienda se beneficia de una navegación fluida y rápida. Los filtros de búsqueda y los menús se adaptan a pantallas pequeñas, y los botones son lo suficientemente grandes para facilitar la interacción en dispositivos táctiles.
+
+Modales y pop-ups: Las vistas de productos, detalles del carrito o la autenticación para iniciar sesión se muestran en modales o ventanas emergentes sin recargar la página, lo que mejora la experiencia del usuario.
+
+
+
+
+
