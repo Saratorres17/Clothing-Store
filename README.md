@@ -2,7 +2,7 @@ Clothing Store
 
 La página principal está desarrollada con React y estilizada con Tailwind CSS para garantizar un diseño moderno y responsivo. Incluye un encabezado con navegación, una sección de presentación con imágenes destacadas utilizando bg-cover y bg-center, y un área de productos en formato grid para mostrar las prendas. Se integraron clases de Tailwind para una estructura limpia, colores dinámicos y diseño adaptativo en diferentes dispositivos. Además, el código es modular, lo que facilita futuras actualizaciones o personalizaciones.
 
-## Available Scripts
+## Comandos para ejecutar el proyecto
 
 In the project directory, you can run:
 
@@ -41,30 +41,11 @@ You don't have to ever use `eject`. The curated feature set is suitable for smal
 
 ## Learn More
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+La página principal de la tienda de ropa está diseñada con React para garantizar una experiencia interactiva y dinámica. Se utilizaron estilos de Tailwind CSS, una herramienta que facilita el desarrollo de interfaces modernas y responsivas. El diseño incluye un encabezado fijo con navegación intuitiva y un botón de llamada a la acción.
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+La sección principal utiliza imágenes destacadas con bg-cover y bg-center para crear un impacto visual atractivo. Además, se implementó una cuadrícula (grid) para organizar los productos, optimizando la visualización en dispositivos móviles y de escritorio gracias a las clases de diseño adaptativo de Tailwind.
 
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
+El código está estructurado en componentes reutilizables, lo que permite personalizar y escalar fácilmente la aplicación. Las animaciones y efectos de transición proporcionan una experiencia de usuario fluida. La configuración de Tailwind se realizó a través de un archivo tailwind.config.js, permitiendo personalizar colores y fuentes para alinearse con la identidad de la marca.
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
