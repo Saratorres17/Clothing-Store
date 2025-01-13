@@ -1,6 +1,6 @@
-# Getting Started with Create React App
+Clothing Store
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+La página principal está desarrollada con React y estilizada con Tailwind CSS para garantizar un diseño moderno y responsivo. Incluye un encabezado con navegación, una sección de presentación con imágenes destacadas utilizando bg-cover y bg-center, y un área de productos en formato grid para mostrar las prendas. Se integraron clases de Tailwind para una estructura limpia, colores dinámicos y diseño adaptativo en diferentes dispositivos. Además, el código es modular, lo que facilita futuras actualizaciones o personalizaciones.
 
 ## Available Scripts
 
